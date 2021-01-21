@@ -1,1 +1,2 @@
 # predictingWaterQuality
+Humanity have some fundamental needs for existing and the most important of these is water. However, some people continue to pollute lakes, seas and oceans. Water pollution is mostly a result of oil spills and industrial wastes. On the other hand, studies are carried out in many areas to prevent water pollution. When we heard about the presence of algae that clean water and increase the water quality , we decided to focus on this issue. In this project, we aimed to create a model that predicts which waters needed this algae.
