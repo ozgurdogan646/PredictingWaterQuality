@@ -1,0 +1,11 @@
+pandas==1.2.1
+numpy
+matplotlib
+seaborn
+xgboost
+scikit-learn
+folium
+numba
+progressbar2
+GDAL
+osmnx
