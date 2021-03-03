@@ -47,5 +47,5 @@ Humanity have some fundamental needs for existing and the most important of thes
 
 *Because of some storage problem we couldn't upload all datasets. You can reach all datasets from [this drive link](https://drive.google.com/drive/folders/1m3nTqu7r-ytBi8rb-uVoH10cIUfubA_c?usp=sharing)*
 
-This repository is created by [Ozgur Dogan](https://github.com/ozgurdogan646), [Dilara Sahan](https://github.com/dilarash) and [Oguzhan Sahin](https://github.com/oguuzhansahin).
+This repository is created by [Ozgur Dogan](https://github.com/ozgurdogan646), [Dilara Sahan](https://github.com/dilarasahan) and [Oguzhan Sahin](https://github.com/oguuzhansahin).
   
